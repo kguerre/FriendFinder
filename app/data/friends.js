@@ -16,7 +16,7 @@ var allFriends = [
   },
     {
     name: "Elaine",
-    photo: "https://s-media-cache-ak0.pinimg.com/736x/c3/ed/8e/c3ed8e911865ebc2708c40385d09eab1--jerry-seinfeld-girl-crushes.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/en/3/33/Elaine-benes-3707.jpg",
     scores: [
         2, 
         2, 
@@ -31,7 +31,7 @@ var allFriends = [
   },
     {
     name: "George",
-    photo: "https://vignette1.wikia.nocookie.net/seinfeld/images/7/76/George-costanza.jpg/revision/latest?cb=20110406222711",
+    photo: "https://upload.wikimedia.org/wikipedia/en/7/70/George_Costanza.jpg",
     scores: [
         2, 
         1, 
@@ -46,7 +46,7 @@ var allFriends = [
   },
     {
     name: "Kramer",
-    photo: "http://cdn.playbuzz.com/cdn/e4b8ceef-72bd-41ce-8747-3ee4882dba05/9e7ac293-0bdf-46c6-83ab-df6f8ce9d691.jpg",
+    photo: "https://upload.wikimedia.org/wikipedia/en/b/b7/Cosmo_Kramer.jpg",
     scores: [
         1, 
         2, 
