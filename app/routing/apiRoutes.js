@@ -31,7 +31,6 @@ module.exports = function(app) {
 		};
 
     var totalDifference = 0;
-    var diffArray = [];
   
 
 		for(var i = 0; i < allFriends.length; i++){
@@ -42,7 +41,6 @@ module.exports = function(app) {
             console.log("total difference is " + totalDifference);
           
               if (totalDifference < friendMatch.matchDifference){
-                // Reset the bestMatch to be the new friend. 
                 friendMatch.name = allFriends[i].name;
                 friendMatch.photo = allFriends[i].photo;
                 friendMatch.matchDifference = totalDifference;
